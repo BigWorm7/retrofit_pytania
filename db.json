@@ -5,28 +5,28 @@
             "A": "Ocean Atlantycki",
             "B": "Ocean Spokojny",
             "C": "Ocean Indyjski",
-            "poprawna": "B"
+            "poprawna": "2"
         },
         {
             "tresc": "Który pierwiastek chemiczny ma symbol O?",
             "A": "Tlen",
             "B": "Złoto",
             "C": "Srebro",
-            "poprawna": "A"
+            "poprawna": "1"
         },
         {
             "tresc": "Ile wynosi 5²?",
             "A": "10",
             "B": "20",
             "C": "25",
-            "poprawna": "C"
+            "poprawna": "3"
         },
         {
             "tresc": "Stolicą Francji jest:",
             "A": "Marsylia",
             "B": "Paryż",
             "C": "Lyon",
-            "poprawna": "B"
+            "poprawna": "2"
         }
     ]
 }
