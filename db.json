@@ -1,0 +1,32 @@
+{
+    "pytania": [
+        {
+            "tresc": "Który ocean jest największy na świecie?",
+            "A": "Ocean Atlantycki",
+            "B": "Ocean Spokojny",
+            "C": "Ocean Indyjski",
+            "poprawna": "B"
+        },
+        {
+            "tresc": "Który pierwiastek chemiczny ma symbol O?",
+            "A": "Tlen",
+            "B": "Złoto",
+            "C": "Srebro",
+            "poprawna": "A"
+        },
+        {
+            "tresc": "Ile wynosi 5²?",
+            "A": "10",
+            "B": "20",
+            "C": "25",
+            "poprawna": "C"
+        },
+        {
+            "tresc": "Stolicą Francji jest:",
+            "A": "Marsylia",
+            "B": "Paryż",
+            "C": "Lyon",
+            "poprawna": "B"
+        }
+    ]
+}
